@@ -1,4 +1,4 @@
-## Modelos de Programación
+## Ingeniería de Software
 
 ![Banner](https://github.com/UDFJDC-ModelosProgramacion/Recursos/blob/main/Images/MPBanner.png?raw=true)
 
